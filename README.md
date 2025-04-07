@@ -1,5 +1,5 @@
 # RT
-Fashion Recommendation System
+## Fashion Recommendation System
 ✨ Project Description
 This project is a Pinterest-inspired fashion recommendation system that helps users discover similar outfits and accessories based on an uploaded image. The system:
 
@@ -13,14 +13,14 @@ Recommends purchasable items from e-commerce sites (Myntra, Ajio, etc.)
 
 Built with Next.js, Google Cloud Vertex AI Matching Engine, and computer vision APIs, it provides personalized fashion inspiration with direct shopping links.
 
-🚀 Features
+## 🚀 Features
 ✔ Image Upload – Users upload their outfit photos
 ✔ Theme Selection – Choose from aesthetic categories (Bohemian, Y2K, Minimalist, etc.)
 ✔ AI-Powered Matching – Finds similar Pinterest pins using vector similarity
 ✔ Accessory Detection – Identifies jewelry and fashion items
 ✔ E-commerce Integration – Recommends buyable products with affiliate links
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 Category	Technologies
 Frontend	Next.js, React, NextUI (UI Library)
 Backend	Node.js, Next.js API Routes
@@ -29,7 +29,7 @@ Storage	Local file storage (for uploads)
 APIs	Pinterest API, E-commerce Affiliate APIs
 
 
-🔍 How It Works
+## 🔍 How It Works
 1. User Uploads an Image
 The frontend (ImageUploader.jsx) allows image selection and preview.
 
@@ -52,17 +52,17 @@ Displays similar Pinterest outfits.
 
 Shows buyable accessories with affiliate links.
 
-📌 Future Improvements
+## 📌 Future Improvements
 🔹 User Accounts – Save favorite recommendations
 🔹 Advanced Styling Tips – AI-generated fashion advice
 🔹 Multi-Image Upload – Compare multiple outfits
 🔹 Better Error Handling – Retry failed API calls
 
-📜 License
+## 📜 License
 MIT License.
 
-💡 Contributors
+## 💡 Contributors
 ADITI GHOSH
 
-🌟 Enjoy Styling!
+## 🌟 Enjoy Styling!
 Try it out and let AI help you find your next favorite outfit! 🛍️✨
